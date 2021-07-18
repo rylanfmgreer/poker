@@ -1,0 +1,6 @@
+1. Build in "round" betting (bet, fold, etc)
+2. calculate probabilities -- done?
+3. calculate expected value
+4. account for A-2-3-4-5 straight
+5. finish holdem interface that you can use to play live
+6. explicitly build in "house rules" like aces high/low, etc
