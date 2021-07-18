@@ -1,6 +1,6 @@
 ## jul 11 2021
 from evaluation_functions import get_all_hands, compare_hands, estimate_probability
-N_TRIALS = 10_000 # for monte carlo stuff.
+N_TRIALS = 100_000 # for monte carlo stuff.
 
 class Player:
     """
